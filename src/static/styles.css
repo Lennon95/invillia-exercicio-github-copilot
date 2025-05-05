@@ -142,3 +142,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+#participants-container {
+  background-color: #e3f2fd;
+}
+
+.participant-card {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.participant-card h4 {
+  margin-bottom: 5px;
+  color: #1a237e;
+}
+
+.participant-card p {
+  margin: 0;
+}
